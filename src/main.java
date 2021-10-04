@@ -1,8 +1,8 @@
 public class main {
     public static void main(String[] args) {
-        int price = 150;
-        int count = 5;
-        int total = price * count;
+        int score = 2_000_000_000;
+        int translation = 500_000_000;
+        int total = score + translation;
         System.out.println(total);
     }
 }
