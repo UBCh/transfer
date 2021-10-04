@@ -7,13 +7,13 @@
 На тестирование затрачено: 15 минут.
 
 В результате тестирования выявлены следующие дефекты:
-* [ Issue ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
+* [ "не правильно вычисляется сумма счета после транзакции" ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * Баг-репорт
-  [ Issue ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
+  [ "не правильно вычисляется сумма счета после транзакции"](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
 
 
 В качестве тестовых данных использовалcя 
