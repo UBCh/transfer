@@ -7,17 +7,17 @@
 На тестирование затрачено: 15 минут.
 
 В результате тестирования выявлены следующие дефекты:
-* [ "не правильно вычисляется сумма счета после транзакции" ](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
+* [ "не правильно вычисляется сумма счета после транзакции" ](https://github.com/UBCh/transfer/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * Баг-репорт
-  [ "не правильно вычисляется сумма счета после транзакции"](https://docs.google.com/spreadsheets/d/1TXfVkWryrnclufzr51pP6-7W7ht8klrvsPtq0sUgAug/edit?usp=sharing)
+  [ "не правильно вычисляется сумма счета после транзакции"](https://github.com/UBCh/transfer/issues/1)
 
 
 В качестве тестовых данных использовалcя 
-* [ код ](https://raw.githubusercontent.com/UBCh/transfer/master/src/main.java)
+* [ КОД ](https://raw.githubusercontent.com/UBCh/transfer/master/src/main.java)
 
 
 Тестирование производилось в следующем окружении:
